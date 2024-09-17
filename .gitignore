@@ -1,0 +1,5 @@
+.env
+src
+node_modules
+config.json
+session_data.json

@@ -1,0 +1,18 @@
+{
+  "name": "cgbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mtproto/core": "^6.3.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
